@@ -28,11 +28,12 @@ header a{
 
 #details{
   display: block;
+  background: red;
   
 }
 #details div{
   float:left;
   text-align: center;
   width: 25%;
-  background: red;
+  
 }
