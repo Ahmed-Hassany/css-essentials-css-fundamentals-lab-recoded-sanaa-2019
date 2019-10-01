@@ -13,8 +13,11 @@ header a{
   background: grey;
 }
 
-#featured-property figcaption{
+#featured-property {
   text-align: center;
+  
+}
+#featured-property figcaption{
   font-size: 12px;
 }
 
